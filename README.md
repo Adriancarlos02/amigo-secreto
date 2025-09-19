@@ -1,6 +1,6 @@
 🎁 Amigo Secreto
 
-Un proyecto sencillo e interactivo para organizar un sorteo de Amigo Secreto. Permite agregar nombres a una lista y, con un solo clic, seleccionar al azar quién será tu amigo secreto. Ideal para reuniones, fiestas o simplemente divertirse con amigos.
+Un proyecto sencillo e interactivo para organizar un sorteo de Amigo Secreto. Permite agregar nombres a una lista y, con un solo clic, seleccionar al azar quién será tu amigo secreto. 
 
 🚀 Funcionalidades
 
